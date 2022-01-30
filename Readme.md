@@ -7,7 +7,7 @@ Here are my solutions to the nine challenges that I got on Google Foobar. Some o
 
 Here are the problems that I got at each stage:
 
-[Level 1 - The Cake is not a Lie](google_foobar/level_1_the_cake_is_not_a_lie)  
+[Level 1 - The Cake is not a Lie](level_1_the_cake_is_not_a_lie)  
 [Level 2 - Ion Flux Relabelling](google_foobar/level_2_ion_flux_relabelling)  
 [Level 2 - Bunny Prisoner Locating](google_foobar/level_2_bunny_prisoner_locating)  
 [Level 3 - Queue to Do](google_foobar/level_3_queue_to_do)  
